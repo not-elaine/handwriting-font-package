@@ -1,4 +1,5 @@
 /* jojoba (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: jojoba;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/jojoba-webfont.woff2') format('woff2'),
@@ -8,6 +9,7 @@ font-style: normal;
 }
 
 /* papernotes (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: papernotes;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/Papernotes.woff2') format('woff2'),
@@ -17,6 +19,7 @@ font-style: normal;
 }
 
 /* naturaly (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: naturaly;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/naturaly-webfont.woff2') format('woff2'),
@@ -26,6 +29,7 @@ font-style: normal;
 }
 
 /* bobogo (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: bobogo;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/Bobogo.woff2') format('woff2'),
@@ -35,6 +39,7 @@ font-style: normal;
 }
 
 /* vividly (pls give credits to @chloetseng if used) */
+
 @font-face {
 font-family: vividly;
 src: url('https://cdn.statically.io/gh/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff2') format('woff2'),
@@ -44,6 +49,7 @@ font-style: normal;
 }
 
 /* babydoll (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: babydoll;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/baby_doll-webfont.woff2') format('woff2'),
@@ -53,6 +59,7 @@ font-style: normal;
 }
 
 /* pineapple grass (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: pineapple grass;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/pineapple_grass-webfont.woff2') format('woff2'),
@@ -62,6 +69,7 @@ font-style: normal;
 }
 
 /* lion cub (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: lion cub;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/lioncub-regular-2-webfont.woff2') format('woff2'),
@@ -71,6 +79,7 @@ font-style: normal;
 }
 
 /* hugs (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: hugs;
 src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/hug_me_tight_-_otf-webfont.woff2') format('woff2'),
@@ -80,6 +89,7 @@ font-style: normal;
 }
 
 /* flowerbust (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: flowerbust;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/flowerbust-regular-webfont.woff2') format('woff2'),
@@ -89,6 +99,7 @@ font-style: normal;
 }
 
 /* lets play (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: lets play;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/lets_play-webfont.woff2') format('woff2'),
@@ -96,6 +107,8 @@ url('https://raw.githubusercontent.com/not-elaine/fonts/main/lets_play-webfont.w
 font-weight: normal;
 font-style: normal;
 }
+
+/* mungil (pls give credits to @elainehan if used) */
 
 @font-face {
 font-family: mungil;
@@ -106,6 +119,7 @@ font-style: normal;
 }
 
 /* spicy tuna (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: spicy tuna;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/spicytuna_demo-webfont.woff2') format('woff2'),
@@ -115,6 +129,7 @@ font-style: normal;
 }
 
 /* little joodles (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: little joodles;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/littlejoodles-regular-webfont.woff2') format('woff2'),
@@ -124,6 +139,7 @@ font-style: normal;
 }
 
 /* pretty neat (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: pretty neat;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/prettyneat-regular-webfont.woff2') format('woff2'),
@@ -133,6 +149,7 @@ font-style: normal;
 }
 
 /* ordinary notes (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: ordinary notes;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Ordinary%20Notes.woff2') format('woff2'),
@@ -142,6 +159,7 @@ font-style: normal;
 }
 
 /* study case (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: study case;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Study%20Case.woff2') format('woff2'),
@@ -151,6 +169,7 @@ font-style: normal;
 }
 
 /* handwriting (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: handwriting;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Handwriting-Regular.woff2') format('woff2'),
@@ -160,6 +179,7 @@ font-style: normal;
 }
 
 /* honey salt (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: honey salt;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/HoneySalt.woff2') format('woff2'),
@@ -169,6 +189,7 @@ font-style: normal;
 }
 
 /* milku (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: milku;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Milku.woff2') format('woff2'),
@@ -178,6 +199,7 @@ font-style: normal;
 }
 
 /* cheeseburger (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: cheeseburger;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/CheeseBurger.woff2') format('woff2'),
@@ -187,6 +209,7 @@ font-style: normal;
 }
 
 /* cheese matcha (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: cheese matcha;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/CheeseMatcha.woff2') format('woff2'),
@@ -196,6 +219,7 @@ font-style: normal;
 }
 
 /* harvest story (pls give credit to @elainehan if used) */
+
 @font-face {
 font-family: harvest story;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/HarvestStory.woff2') format('woff2'),
@@ -205,6 +229,7 @@ font-style: normal;
 }
 
 /* bubble boop (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: bubble boop;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/BubbleBoop-Regular.woff2') format('woff2'),
@@ -214,6 +239,7 @@ font-style: normal;
 }
 
 /* oceana (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: oceana;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Oceana-Regular.woff2') format('woff2'),
@@ -223,6 +249,7 @@ font-style: normal;
 }
 
 /* winkle 2.0 (pls give credits to @elainehan if used) */
+
 @font-face {
 font-family: winkle;
 src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Winkle2Regular.woff2') format('woff2'),
