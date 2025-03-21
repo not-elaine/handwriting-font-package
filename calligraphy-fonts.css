@@ -1,0 +1,89 @@
+/* sunday aliance (pls give credits to @elainehan if used) */
+
+@font-face {
+font-family: sunday aliance;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/SundayAliance.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/SundayAliance.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* bestie signature (pls give credits to @elainehan if used) */
+
+@font-face {
+font-family: bestie signature;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/BestieSignatureRegular.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/BestieSignatureRegular.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* sunflower (pls give credits to @elainehan if used) */
+
+@font-face {
+font-family: sunflower;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/SunflowerFREE.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/SunflowerFREE.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* midnight signature (pls give credits to @elainehan if used) */
+
+@font-face {
+font-family: midnight signature;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/MidnightSignature.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/MidnightSignature.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* rosanna (pls give credits to @elainehan if used) */
+
+@font-face {
+font-family: rosanna;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Rosanna.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/Rosanna.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* awesome snowflakes (pls give credits to @catcumber if used) */
+
+@font-face {
+font-family: awesome snowflakes;
+src: url('https://cdn.statically.io/gh/cucumber-cat/Awesome-Snowflakes/main/Awesome%20Snowflakes.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/cucumber-cat/Awesome-Snowflakes/main/Awesome%20Snowflakes.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* snow (pls give credits to @renna8 if used) */
+
+@font-face {
+font-family: 'snow';
+src: url('https://cdn.statically.io/gh/bigseals/random-fonts-2/main/mysticalsnow-mv3aj-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/bigseals/random-fonts-2/main/mysticalsnow-mv3aj-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* matcha (pls give credits to @chloetseng if used) */
+
+@font-face {
+font-family: matcha;
+src: url('https://cdn.statically.io/gh/chloe-tseng/chloe-fonts/main/milky_matcha-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/chloe-tseng/chloe-fonts/main/milky_matcha-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* muthiara (pls give credits to @prettyflower if used) */
+
+@font-face {
+font-family: muthiara;
+src: url('https://cdn.statically.io/gh/Calculating0/muthiara/main/muthiara_demo_version-webfont%5B1%5D.woff2') format('woff2'),
+url('https://cdn.statically.io/gh/Calculating0/muthiara/main/muthiara_demo_version-webfont%5B1%5D.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
