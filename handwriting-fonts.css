@@ -2,8 +2,8 @@
 
 @font-face {
 font-family: jojoba;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/jojoba-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/jojoba-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/jojoba-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/jojoba-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -12,8 +12,8 @@ font-style: normal;
 
 @font-face {
 font-family: papernotes;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/Papernotes.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/PapernotesRegular.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Papernotes.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/PapernotesRegular.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -22,8 +22,8 @@ font-style: normal;
 
 @font-face {
 font-family: naturaly;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/naturaly-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/naturaly-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/naturaly-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/naturaly-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -32,8 +32,8 @@ font-style: normal;
 
 @font-face {
 font-family: bobogo;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/Bobogo.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/Bobogo.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bobogo.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/Bobogo.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -42,8 +42,28 @@ font-style: normal;
 
 @font-face {
 font-family: vividly;
-src: url('https://cdn.statically.io/gh/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/chloe-tseng/chloe-fonts/main/vividly-regular-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* pen (pls give credits to @hestu_the_bestu (lydia) if used); note that this font was originally titled a casual handwritten pen */
+
+@font-face {
+font-family: pen;
+src: url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/main/a.casual.handwritten.pen.noncommercial-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/main/a.casual.handwritten.pen.noncommercial-webfont.woff') format('woff');
+font-weight: normal;
+font-style: normal;
+}
+
+/* over light (pls give credits to @hestu_the_bestu (lydia) if used) */
+
+@font-face {
+font-family: over light;
+src: url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/main/over_light-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/Hestu-the-Bestu/fonts1/main/over_light-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -52,9 +72,8 @@ font-style: normal;
 
 @font-face {
 font-family: babydoll;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/baby_doll-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/baby_doll-webfont.woff') format('woff');
-font-weight: normal;
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/baby_doll-webfont.woff2') format('woff2'),
+url('https://cdn.statically.io/ghhttps://raw.githubusercontent.comweight: normal;
 font-style: normal;
 }
 
@@ -62,8 +81,8 @@ font-style: normal;
 
 @font-face {
 font-family: pineapple grass;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/pineapple_grass-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/pineapple_grass-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/pineapple_grass-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/pineapple_grass-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -72,8 +91,8 @@ font-style: normal;
 
 @font-face {
 font-family: lion cub;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/lioncub-regular-2-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/lioncub-regular-2-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/lioncub-regular-2-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/lioncub-regular-2-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
@@ -82,8 +101,8 @@ font-style: normal;
 
 @font-face {
 font-family: hugs;
-src: url('https://cdn.statically.io/gh/not-elaine/fonts/main/hug_me_tight_-_otf-webfont.woff2') format('woff2'),
-url('https://cdn.statically.io/gh/not-elaine/fonts/main/hug_me_tight_-_otf-webfont.woff') format('woff');
+src: url('https://raw.githubusercontent.com/not-elaine/fonts/main/hug_me_tight_-_otf-webfont.woff2') format('woff2'),
+url('https://raw.githubusercontent.com/not-elaine/fonts/main/hug_me_tight_-_otf-webfont.woff') format('woff');
 font-weight: normal;
 font-style: normal;
 }
